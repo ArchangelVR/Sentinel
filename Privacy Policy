@@ -1,0 +1,90 @@
+Dernière mise à jour : 22/11/2025
+
+Cette politique explique quelles données sont collectées par Sentinel, comment elles sont utilisées, et vos droits.
+
+1. Données collectées
+
+Le Bot peut collecter uniquement les données nécessaires à son fonctionnement, notamment :
+
+1.1. Données Discord (automatiquement fournies par Discord)
+
+ID utilisateur, ID serveur, ID message, ID salon
+
+Pseudonyme et avatar (métadonnées publiques)
+
+Logs d’événements nécessaires (modération, actions du bot, interactions)
+
+1.2. Données saisies volontairement
+
+Informations dans les tickets (description, accusation, plainte, etc.)
+
+Réponses aux formulaires et modales (ex. candidatures modération)
+
+Messages archivés dans un cadre de modération
+
+Le Bot ne lit pas vos messages privés et ne collecte aucune donnée personnelle en dehors de Discord.
+
+2. Finalité de la collecte
+
+Les données sont utilisées pour :
+
+Gérer les tickets (problèmes, plaintes, candidatures, bugs)
+
+Assurer un suivi modération (logs, actions des modérateurs)
+
+Créer et gérer des salons vocaux temporaires
+
+Fournir des fonctionnalités d’administration et d’organisation
+
+Les données ne sont jamais vendues, jamais utilisées à des fins publicitaires, et jamais partagées à des tiers, sauf obligation légale.
+
+3. Conservation des données
+
+Les données sont conservées :
+
+Autant que nécessaire pour la gestion des tickets et des logs,
+
+Ou jusqu’à suppression par un administrateur,
+
+Ou jusqu’à retrait du Bot du serveur.
+
+Les archives peuvent être automatiquement supprimées selon la configuration du serveur.
+
+4. Sécurité
+
+Les données stockées sont protégées via :
+
+Accès restreint au développeur,
+
+Stockage non public,
+
+Absence de transmission à des tiers.
+
+Aucune méthode n’étant parfaite, aucune garantie de sécurité absolue ne peut être fournie.
+
+5. Vos droits
+
+Vous pouvez demander :
+
+La suppression de vos données,
+
+L’accès aux données associées à votre ID,
+
+La correction d’une information erronée.
+
+Pour exercer vos droits :
+→ Ajoutez votre contact ici (GitHub/Discord/e-mail).
+
+6. Services tiers
+
+Le Bot fonctionne uniquement avec l’API officielle Discord.
+Il n’utilise aucun autre service externe pouvant collecter des données personnelles.
+
+7. Modifications de la politique
+
+La présente politique peut être mise à jour. La date de mise à jour sera modifiée en conséquence.
+
+8. Contact
+
+Pour toute demande liée à la vie privée :
+→ Ajoutez votre lien de contact ici.
