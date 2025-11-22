@@ -3,7 +3,7 @@ Terms of Service URL
 
 📄 1. Terms of Service — Sentinel Bot
 
-Dernière mise à jour : JJ/MM/2025
+Dernière mise à jour : 22/11/2025
 
 Merci d’utiliser Sentinel (ci-après “le Bot”). En utilisant le Bot, vous acceptez les présentes Conditions d’Utilisation. Si vous n’êtes pas d’accord, vous devez cesser d’utiliser le Bot.
 
