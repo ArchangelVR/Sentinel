@@ -1,72 +1,190 @@
-# Sentinel
-Terms of Service
+# Politique de Confidentialité - Sentinel Bot
 
-📄 1. Terms of Service — Sentinel Bot
+**Dernière mise à jour :** 8 décembre 2024  
+**Localisation :** Suisse
 
-Dernière mise à jour : 22/11/2025
+---
 
-Merci d’utiliser Sentinel (ci-après “le Bot”). En utilisant le Bot, vous acceptez les présentes Conditions d’Utilisation. Si vous n’êtes pas d’accord, vous devez cesser d’utiliser le Bot.
+## 1. Introduction
 
-1. Accès au service
+Cette politique de confidentialité décrit les données collectées par Sentinel Bot, comment elles sont utilisées, stockées et protégées. Nous nous engageons à respecter votre vie privée et à traiter vos données de manière responsable.
 
-Le Bot est fourni « tel quel » et peut être modifié, mis à jour, limité ou retiré à tout moment sans préavis.
-L’accès au Bot nécessite un compte Discord valide et le respect des Conditions d’Utilisation de Discord.
+## 2. Données Collectées
 
-2. Fonctionnement du Bot
+### 2.1 Données Automatiques
 
-Le Bot fournit notamment :
+Lors de l'utilisation normale du bot, nous collectons :
 
-Des outils de modération (tickets, logs, sanctions, gestion des salons vocaux, etc.)
+**Données du serveur :**
+- ID du serveur Discord
+- IDs des canaux et catégories configurés
+- IDs des rôles configurés
 
-Des fonctionnalités communautaires (spawn-vocal, utilitaires, menus interactifs)
+**Données des utilisateurs :**
+- ID utilisateur Discord
+- Nom d'utilisateur et discriminateur
+- Photo de profil (URL)
+- Pseudos sur le serveur
+- Rôles attribués
+- Date d'arrivée sur le serveur
+- Date de dernière activité
 
-Des systèmes d’archives et de suivi modération
+**Données d'activité :**
+- Nombre de messages envoyés
+- Historique des sanctions (warns, mutes, kicks, bans)
+- Actions de modération (avec raisons fournies)
+- Tickets ouverts et fermés
+- Signalements effectués
+- Participation aux giveaways
 
-Les fonctionnalités peuvent évoluer selon les mises à jour du développement.
+**Logs d'événements :**
+- Changements de pseudo
+- Ajout/retrait de rôles
+- Changements de photo de profil
+- Messages supprimés ou modifiés (contenu)
+- Entrées/sorties du serveur
+- Activité vocale
 
-3. Obligations de l’utilisateur
+### 2.2 Données Non Collectées
 
-En utilisant le Bot, vous vous engagez à :
+Nous **ne collectons PAS** :
+- Mots de passe
+- Informations bancaires
+- Adresses email (sauf si fourni volontairement)
+- Messages privés (DMs)
+- Localisation géographique précise
+- Données de navigation web
 
-Respecter les règles du serveur où il est installé.
+## 3. Utilisation des Données
 
-Ne pas tenter d’exploiter, contourner, altérer ou attaquer le fonctionnement du Bot.
+Les données collectées sont utilisées pour :
+- Fournir les fonctionnalités de modération du bot
+- Maintenir l'historique des membres (posts forum)
+- Gérer les sanctions et leur suivi
+- Permettre aux modérateurs de prendre des décisions éclairées
+- Améliorer les fonctionnalités du bot
+- Générer des statistiques internes au serveur
 
-Utiliser le Bot conformément aux lois applicables et aux CGU de Discord.
+## 4. Stockage des Données
 
-Toute utilisation abusive pourra entraîner un blocage définitif.
+**Localisation :** Les données sont stockées sur un serveur VPS situé en Suisse ou dans l'Union Européenne.
 
-4. Restrictions
+**Format :** Base de données JSON locale, non partagée avec des tiers.
 
-Il est interdit de :
+**Durée de conservation :**
+- Données actives : Tant que le bot est présent sur votre serveur
+- Après retrait du bot : Suppression automatique dans les 30 jours
+- Historique : Conservé tant que l'utilisateur est présent sur le serveur
 
-Utiliser le Bot pour harceler, menacer ou violer la vie privée d’autrui.
+## 5. Accès aux Données
 
-Extraire, copier ou réutiliser le code du Bot sans autorisation.
+**Qui a accès :**
+- Les administrateurs et modérateurs de votre serveur Discord (via les commandes du bot)
+- Le développeur du bot (uniquement pour maintenance technique)
 
-Utiliser le Bot dans des serveurs contenant du contenu illégal.
+**Qui n'a PAS accès :**
+- Utilisateurs standards sans permissions de modération
+- Autres serveurs Discord utilisant le bot
+- Services tiers
+- Organismes publicitaires
 
-5. Propriété intellectuelle
+## 6. Partage des Données
 
-Le code source, les modules, les systèmes de modération, ainsi que les éléments visuels associés au Bot sont la propriété de son développeur, sauf mention contraire.
+Nous **ne vendons ni ne partageons** vos données avec des tiers, sauf :
+- Si requis par la loi suisse
+- Pour protéger nos droits légaux
+- Avec votre consentement explicite
 
-6. Limitation de responsabilité
+## 7. Sécurité des Données
 
-Le développeur ne peut être tenu responsable :
+Mesures de sécurité mises en place :
+- Serveur sécurisé avec accès limité
+- Token bot protégé dans fichier .env
+- Pas de transmission des données à des API tierces
+- Backup réguliers (locaux uniquement)
+- Encodage UTF-8 pour éviter la corruption
 
-Des dommages résultant de l’usage du Bot,
+**Limitations :**  
+Aucun système n'est infaillible. En cas de violation de données, nous vous informerons dans les plus brefs délais.
 
-De pertes de données,
+## 8. Vos Droits
 
-D’une mauvaise configuration du serveur par les administrateurs.
+Conformément aux bonnes pratiques de protection des données, vous avez le droit de :
 
-L’utilisation se fait entièrement à vos risques.
+**Droit d'accès :**  
+Demander une copie de vos données via commande `/profil`
 
-7. Résiliation
+**Droit de rectification :**  
+Les données incorrectes peuvent être corrigées (contacter un administrateur)
 
-Le développeur peut retirer l’accès au Bot à un serveur ou un utilisateur en cas d’abus, de non-respect des règles ou de risque pour la sécurité du service.
+**Droit à l'effacement ("droit à l'oubli") :**  
+Demander la suppression complète de vos données en :
+1. Quittant le serveur Discord
+2. Contactant un administrateur pour suppression manuelle
+3. L'administrateur peut supprimer votre post forum et données associées
 
-8. Contact
+**Droit d'opposition :**  
+Refuser certains traitements (limité aux fonctionnalités non essentielles)
 
-Pour toute question :
-→ https://discord.gg/DZsxDdY7Qf
+**Droit à la portabilité :**  
+Demander vos données dans un format exploitable (JSON)
+
+## 9. Données des Mineurs
+
+Discord requiert un âge minimum de 13 ans (16 ans dans l'UE). Nous ne collectons pas sciemment de données d'enfants de moins de 13 ans. Si vous êtes un parent et que vous pensez que votre enfant a fourni des données, contactez-nous pour suppression immédiate.
+
+## 10. Cookies et Traceurs
+
+Le bot **n'utilise PAS** de cookies, traceurs web ou technologies similaires. Toutes les données proviennent directement de l'API Discord.
+
+## 11. Modifications de la Politique
+
+Nous pouvons modifier cette politique à tout moment. Les modifications seront publiées avec une nouvelle date de mise à jour. L'utilisation continue du bot après modification constitue une acceptation de la nouvelle politique.
+
+## 12. Conformité Légale
+
+Cette politique est conçue pour être conforme avec :
+- La Loi fédérale sur la protection des données (LPD) - Suisse
+- Les bonnes pratiques internationales de protection des données
+
+**Note :** Sentinel Bot est un projet personnel hébergé en Suisse et n'est pas soumis au RGPD européen. Cependant, nous appliquons des standards similaires par respect pour la vie privée des utilisateurs.
+
+## 13. Transparence
+
+Le code source de Sentinel Bot peut être consulté sur demande pour vérifier le traitement des données. Nous privilégions la transparence et la confiance.
+
+## 14. Contact et Réclamations
+
+Pour exercer vos droits ou pour toute question concernant cette politique :
+
+**Contact principal :**
+- Serveur Discord de support : DZsxDdY7Qf
+- Email : Angel-117@ik.me
+
+**Délai de réponse :** Nous nous engageons à répondre dans un délai de 14 jours maximum.
+
+**Réclamations :**  
+Si vous estimez que vos droits ne sont pas respectés, vous pouvez contacter le Préposé fédéral à la protection des données et à la transparence (PFPDT) en Suisse.
+
+---
+
+## 15. Résumé Simplifié
+
+**Ce que nous faisons :**
+✅ Collectons uniquement les données nécessaires au fonctionnement du bot  
+✅ Stockons les données de manière sécurisée en Suisse  
+✅ Vous donnons accès à vos données via `/profil`  
+✅ Supprimons vos données si vous quittez le serveur ou sur demande  
+
+**Ce que nous ne faisons PAS :**
+❌ Vendre vos données  
+❌ Partager avec des tiers  
+❌ Tracker votre activité en dehors de Discord  
+❌ Utiliser vos données à des fins publicitaires  
+❌ Conserver vos données après retrait du bot  
+
+---
+
+**Date d'entrée en vigueur :** 8 décembre 2024
+
+En utilisant Sentinel Bot, vous reconnaissez avoir lu et compris cette Politique de Confidentialité.
