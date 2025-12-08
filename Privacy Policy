@@ -1,90 +1,84 @@
-Dernière mise à jour : 22/11/2025
+# Conditions d'Utilisation - Sentinel Bot
 
-Cette politique explique quelles données sont collectées par Sentinel, comment elles sont utilisées, et vos droits.
+**Dernière mise à jour :** 8 décembre 2024  
+**Localisation :** Suisse
 
-1. Données collectées
+---
 
-Le Bot peut collecter uniquement les données nécessaires à son fonctionnement, notamment :
+## 1. Acceptation des Conditions
 
-1.1. Données Discord (automatiquement fournies par Discord)
+En ajoutant Sentinel Bot à votre serveur Discord, vous acceptez les présentes conditions d'utilisation. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser le bot.
 
-ID utilisateur, ID serveur, ID message, ID salon
+## 2. Description du Service
 
-Pseudonyme et avatar (métadonnées publiques)
+Sentinel Bot est un bot de modération Discord qui offre :
+- Gestion de sanctions (avertissements, mutes, kicks, bans)
+- Système de tickets et signalements
+- Historique détaillé des membres via forums Discord
+- Salons vocaux temporaires personnalisables
+- Système de giveaways
+- Logs automatiques des événements du serveur
 
-Logs d’événements nécessaires (modération, actions du bot, interactions)
+## 3. Utilisation Autorisée
 
-1.2. Données saisies volontairement
+Vous vous engagez à :
+- Utiliser le bot conformément aux Conditions d'Utilisation de Discord
+- Ne pas tenter de contourner, pirater ou exploiter les fonctionnalités du bot
+- Ne pas utiliser le bot pour harceler, diffamer ou nuire à d'autres utilisateurs
+- Respecter les lois applicables en Suisse et dans votre juridiction
 
-Informations dans les tickets (description, accusation, plainte, etc.)
+## 4. Droits et Responsabilités
 
-Réponses aux formulaires et modales (ex. candidatures modération)
+**Vos droits :**
+- Configurer le bot selon vos besoins
+- Retirer le bot de votre serveur à tout moment
+- Demander la suppression de vos données (voir Politique de Confidentialité)
 
-Messages archivés dans un cadre de modération
+**Nos droits :**
+- Modifier, suspendre ou interrompre le service à tout moment
+- Refuser l'accès au bot en cas de violation des conditions
+- Mettre à jour ces conditions à tout moment
 
-Le Bot ne lit pas vos messages privés et ne collecte aucune donnée personnelle en dehors de Discord.
+**Nos responsabilités :**
+- Faire de notre mieux pour maintenir le service disponible
+- Protéger les données collectées (voir Politique de Confidentialité)
+- Informer des changements majeurs dans le fonctionnement
 
-2. Finalité de la collecte
+## 5. Limitations de Responsabilité
 
-Les données sont utilisées pour :
+Le bot est fourni "tel quel", sans aucune garantie. Nous ne sommes pas responsables de :
+- Pertes de données dues à des bugs ou pannes
+- Dommages causés par une mauvaise utilisation du bot
+- Interruptions de service
+- Décisions de modération prises par les administrateurs de serveurs
+- Conflits entre utilisateurs de votre serveur
 
-Gérer les tickets (problèmes, plaintes, candidatures, bugs)
+## 6. Propriété Intellectuelle
 
-Assurer un suivi modération (logs, actions des modérateurs)
+Le code source, la structure et les fonctionnalités de Sentinel Bot restent la propriété exclusive du développeur. Toute reproduction, modification ou distribution non autorisée est interdite.
 
-Créer et gérer des salons vocaux temporaires
+## 7. Résiliation
 
-Fournir des fonctionnalités d’administration et d’organisation
+Nous pouvons suspendre ou résilier l'accès au bot en cas de :
+- Violation des présentes conditions
+- Violation des Conditions d'Utilisation de Discord
+- Utilisation abusive ou frauduleuse
+- Activités illégales
 
-Les données ne sont jamais vendues, jamais utilisées à des fins publicitaires, et jamais partagées à des tiers, sauf obligation légale.
+## 8. Modifications des Conditions
 
-3. Conservation des données
+Nous nous réservons le droit de modifier ces conditions à tout moment. Les modifications entrent en vigueur dès leur publication. L'utilisation continue du bot après modification constitue une acceptation des nouvelles conditions.
 
-Les données sont conservées :
+## 9. Droit Applicable
 
-Autant que nécessaire pour la gestion des tickets et des logs,
+Ces conditions sont régies par le droit suisse. Tout litige sera soumis à la juridiction compétente en Suisse, Canton de Fribourg.
 
-Ou jusqu’à suppression par un administrateur,
+## 10. Contact
 
-Ou jusqu’à retrait du Bot du serveur.
+Pour toute question concernant ces conditions :
+- Serveur Discord de support : DZsxDdY7Qf
+- Email : Angel-117@ik.me
 
-Les archives peuvent être automatiquement supprimées selon la configuration du serveur.
+---
 
-4. Sécurité
-
-Les données stockées sont protégées via :
-
-Accès restreint au développeur,
-
-Stockage non public,
-
-Absence de transmission à des tiers.
-
-Aucune méthode n’étant parfaite, aucune garantie de sécurité absolue ne peut être fournie.
-
-5. Vos droits
-
-Vous pouvez demander :
-
-La suppression de vos données,
-
-L’accès aux données associées à votre ID,
-
-La correction d’une information erronée.
-
-Pour exercer vos droits :
-→ Ajoutez votre contact ici (GitHub/Discord/e-mail).
-
-6. Services tiers
-
-Le Bot fonctionne uniquement avec l’API officielle Discord.
-Il n’utilise aucun autre service externe pouvant collecter des données personnelles.
-
-7. Modifications de la politique
-
-La présente politique peut être mise à jour. La date de mise à jour sera modifiée en conséquence.
-
-8. Contact
-
-Pour toute demande liée à la vie privée :
-→ https://discord.gg/DZsxDdY7Qf
+**Important :** Ces conditions d'utilisation doivent être lues conjointement avec notre Politique de Confidentialité et les Conditions d'Utilisation de Discord.
